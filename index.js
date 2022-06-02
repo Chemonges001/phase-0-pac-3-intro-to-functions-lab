@@ -24,7 +24,5 @@ function shout(string) {
      return "I would love to!"
     
       }
-      switch (string){
           
-      }
   
